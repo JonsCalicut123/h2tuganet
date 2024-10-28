@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+789club - Cổng game bài đổi thưởng đẳng cấp
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Trên thị trường game bài đổi thưởng trực tuyến sôi động hiện nay, `789club <https://h2tuga.net/>`_ nổi lên như một “ngôi sao sáng” thu hút hàng triệu người chơi tham gia mỗi ngày. Sở hữu kho game đa dạng, tỷ lệ đổi thưởng hấp dẫn cùng hệ thống thanh toán an toàn, nhanh chóng, cổng game đã kết hợp với h2tuda.net để mang đến cho bạn những trải nghiệm giải trí đỉnh cao và cơ hội rinh quà khủng.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 584/11 Đ. Lê Trọng Tấn, Tây Thạnh, Tân Phú, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0868410063. 
 
-Contents
---------
+Email: h2tuagnet@gmail.com. 
 
-.. toctree::
+Website: https://h2tuga.net/ 
 
-   usage
-   api
+#789club #h2tuga #h2tuganet #789clubcasino
